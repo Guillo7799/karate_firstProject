@@ -1,0 +1,82 @@
+{
+  "page": 1,
+  "per_page": 7,
+  "total": "#number",
+  "total_pages": 2,
+  "data": [
+    {
+      "id": 1,
+      "username": "Alesxq",
+      "firstName": "Alexander",
+      "lastName": "Pritos",
+      "email": "alex@pritos.com",
+      "password": "123456789",
+      "phone": "9876543211",
+      "userStatus": 0
+    },
+    {
+      "id": 2,
+      "username": "SerMo",
+      "firstName": "Sergio",
+      "lastName": "Morales",
+      "email": "sergio@morales.com",
+      "password": "123456789",
+      "phone": "9876543211",
+      "userStatus": 0
+    },
+    {
+      "id": 3,
+      "username": "belen",
+      "firstName": "cristina",
+      "lastName": "silva",
+      "email": "cristina@silva.com",
+      "password": "123456789",
+      "phone": "9876543211",
+      "userStatus": 0
+    },
+    {
+      "id": 4,
+      "username": "Jj",
+      "firstName": "Julian",
+      "lastName": "Mendoza",
+      "email": "julian@mendoza.com",
+      "password": "123456789",
+      "phone": "9876543211",
+      "userStatus": 0
+    },
+    {
+      "id": 5,
+      "username": "Jogr",
+      "firstName": "Jorge",
+      "lastName": "Ramos",
+      "email": "jorge@ramos.com",
+      "password": "123456789",
+      "phone": "9876543211",
+      "userStatus": 0
+    },
+    {
+      "id": 6,
+      "username": "Melina",
+      "firstName": "Melina",
+      "lastName": "Suarez",
+      "email": "melina@suarez.com",
+      "password": "123456789",
+      "phone": "9876543211",
+      "userStatus": 0
+    },
+    {
+      "id": 7,
+      "username": "GalesDev",
+      "firstName": "Guillermo",
+      "lastName": "Guerrero",
+      "email": "gales@oprueba.com",
+      "password": "Password01.",
+      "phone": "9876543212",
+      "userStatus": 0
+    }
+  ],
+  "support": {
+    "url": "#",
+    "text": "QA AUTOMATION"
+  }
+}
